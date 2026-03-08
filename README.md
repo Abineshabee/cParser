@@ -25,11 +25,11 @@ GitHub Repository:
 
 The primary objectives of the cParser project include:
 
-• Parsing C source code using Python
-• Extracting function calls from C programs
-• Demonstrating AST traversal
-• Performing syntax validation on C code
-• Teaching compiler and parser concepts
+• Parsing C source code using Python.
+• Extracting function calls from C programs.
+• Demonstrating AST traversal.
+• Performing syntax validation on C code.
+• Teaching compiler and parser concepts.
 
 This project helps developers explore how compilers inspect and analyze source code before execution.
 
@@ -39,12 +39,12 @@ This project helps developers explore how compilers inspect and analyze source c
 
 The cParser tool includes several capabilities:
 
-• Parse C source code files
-• Detect and print function calls
-• Display arguments passed to functions
-• Generate an Abstract Syntax Tree
-• Validate syntax correctness
-• Analyze C code snippets
+• Parse C source code files.
+• Detect and print function calls.
+• Display arguments passed to functions.
+• Generate an Abstract Syntax Tree.
+• Validate syntax correctness.
+• Analyze C code snippets.
 
 ---
 
@@ -361,18 +361,18 @@ This runs the built-in example program.
 
 This project demonstrates important compiler concepts:
 
-* Abstract Syntax Tree (AST)
-* Visitor design pattern
-* Source code parsing
-* Syntax validation
-* Static code analysis
+* Abstract Syntax Tree (AST).
+* Visitor design pattern.
+* Source code parsing.
+* Syntax validation.
+* Static code analysis.
 
 It is particularly useful for students learning:
 
-* Compilers
-* Programming language design
-* Static analysis tools
-* Code parsing techniques
+* Compilers.
+* Programming language design.
+* Static analysis tools.
+* Code parsing techniques.
 
 ---
 
@@ -380,12 +380,12 @@ It is particularly useful for students learning:
 
 Possible enhancements for the project include:
 
-• Variable usage analysis
-• Control flow graph generation
-• Code complexity analysis
-• Detection of unused variables
-• Static security analysis
-• Function dependency graphs
+• Variable usage analysis.
+• Control flow graph generation.
+• Code complexity analysis.
+• Detection of unused variables.
+• Static security analysis.
+• Function dependency graphs.
 
 ---
 
@@ -397,7 +397,3 @@ GitHub
 [https://github.com/Abineshabee](https://github.com/Abineshabee)
 
 ---
-
-
-
-These will make your project look closer to a **mini compiler / code analysis tool**, which is **very impressive for recruiters and Linux Foundation reviewers**.
